@@ -1,4 +1,7 @@
+# In-built modules
 math
 random
-pygame
+# Already Included with Python 3.x
 tkinter
+# To be installed 
+pygame(1.9.6+ recommended)
